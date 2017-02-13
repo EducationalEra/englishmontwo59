@@ -14,34 +14,31 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Повсякденні дії.<br>
-Види дозвілля. <br>
-Кореспонденція. <br>
-Літературні жанри. <br>
-Обладнання та послуги бібіліотеки. <br>
-Періодичні видання. <br>
-Музичні жанри / інструменти. <br>
-Географічні поняття. <br>
-Країни. <br>
-Національності.<br>
-Типи шкіл.<br>
-Назви навчальних  кімнат та шкільного обладнання</td>
+Щоденні справи.<br>
+Предмети одягу.<br>
+Види закладів харчування.<br>
+Види обробки продуктів харчування.<br>
+Назви страв.<br>
+Види ЗМІ.<br>
+Назви географічних об’єктів.<br>
+Типи шкіл</td>
 <td width="50%" style="vertical-align:top !important;">
+<b>Артикль:</b><br>
+означений артикль та відсутність артикля перед географічними назвами.<br>
+<b>Іменник:</b> <br>
+власні і загальні назви.<br>
 <b>Дієслово:</b><br>
-Active and Passive Vоісе.<br>
-Модальні дієслова: will, might, shall, should, let's, could.<br>
+Future Simple. Past Continuous. Модальні дієслова:саn/can't, could/couldn't must/mustn't, should/shouldn't, need/needn't 'Shall’ в питальному реченні.<br>
 <b>Займенник:</b><br>
-неозначені.<br>
-<b>Прикметник:</b><br>
-в структурах ‘as... as', ‘so...as' зі словами rather, almost, quite. <br>
-<b>Прислівник:</b> <br>
-місця (everywhere, anywhere, somewhere, nowhere). <br>
-<b>Числівник:</b><br> 
-кількісні до 1 000 000.<br>
-<b>Adverbial Clause</b> with 'when'. <br>
-<b>Pro-clause</b> with 'so', 'not' (I think so. I hope not.)
+зворотні (myself, ourselves, etc.).<br>
+<b>Прислівник:</b><br>
+ступеню (a lot, a little), часу - tomorrow.<br>
+<b>Сполучник:</b><br>
+so, because.<br>
+<b>Прийменник:</b><br>
+приналежності of, with, without, часу (from... to..., by..., during)
 </td>
-<td width="25%" style="vertical-align:top !important;">Особливості інтонації складносурядних та складнопідрядних речень</td>
+<td width="25%" style="vertical-align:top !important;">Особливості інтонації</td>
             </tr>
 </table>
 

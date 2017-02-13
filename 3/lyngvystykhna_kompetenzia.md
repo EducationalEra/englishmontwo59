@@ -14,33 +14,25 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Види домашніх обов’язків. <br>
-Родинні свята. <br>
-Кухонні прилади. <br>
-Посуд. <br>
-Види обробки продуктів харчування.<br>
-Назви медичних закладів. <br>
-Жанри фільмів / вистав. <br>
-Елементи інтер’єру кінотеатру / театру.<br> 
-Види спортивних змагань. <br>
-Спортивні клуби, секції. <br>
-Визначні місця столиць. <br>
-Види позакласних заходів</td>
+Зовнішність людини.<br> Назви рис характеру.<br> Види помешкань.<br> Умеблювання. <br>Види спорту.<br> Види магазинів.<br> Гроші.<br> Види транспорту.<br> Об'єкти природи. <br>Визначні місця</td>
 <td width="50%" style="vertical-align:top !important;">
+<b>Іменник:</b> <br>
+злічувані та незлічувані іменники.<br>
 <b>Дієслово:</b><br>
-Past Perfect. Tag-questions. Модальні дієслова: must / mustn't; need / needn't; should / shouldn't.<br>
+Present/Past Simple; Present Continuous; структура ‘be going to'.<br>
+There is / There are (зі злічуваними та незлічуваними іменниками). Модальні дієслова, сап/could, have to/had to.<br>
 <b>Займенник:</b><br>
-зворотні (myself, ourselves, etc.); ступеню (enough, too... a little, much).<br>
+неозначені some, any, no, a lot(of)\питальні how much/how many (із злічуваними та незлічуваними іменниками).<br>
+<b>Прикметник:</b><br>
+ступені порівняння прикметників.<br>
 <b>Прислівник:</b><br>
-часу (just, ever), ступеню (a lot, a little).<br>
+частотні, способу дії (slowly, well, etc.); часу (now, today, yesterday, two days ago).<br>
 <b>Сполучник:</b><br>
-so, then.<br>
-<b>Числівник:</b><br>
-порядкові до 1000.<br>
+then, or.<br>
 <b>Прийменник:</b><br>
-часу oefore, after, for, since
+напрямку (into, out of); місця (inside, outside)
 </td>
-<td width="25%" style="vertical-align:top !important;">Інтонація реплік погодження. Інтонація складного речення. Інтонація реплік поради та висловлення почуттів</td>
+<td width="25%" style="vertical-align:top !important;">Наголос у словах і реченнях. Особливості інтонації. Поділ речень на ритмічні групи. Логічний наголос</td>
             </tr>
 </table>
 
